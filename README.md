@@ -17,3 +17,4 @@ There's a few ways to use Helple:
 * `make build`
 * Load `extension` folder using Chrome in development mode# helple
 # helple
+# helple

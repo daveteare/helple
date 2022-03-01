@@ -16,3 +16,4 @@ There's a few ways to use Helple:
 * `cargo install wasm-pack`
 * `make build`
 * Load `extension` folder using Chrome in development mode# helple
+# helple
